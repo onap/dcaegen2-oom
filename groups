@@ -2,4 +2,3 @@
 #
 6e494bb21f0ba890e2a7a272dc98ae20b025445d                                     	saml/onap-gerrit-dcaegen2-oom-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                     	GitHub Replication
-ldap:cn=onap-gerrit-dcaegen2-oom-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-dcaegen2-oom-committers
